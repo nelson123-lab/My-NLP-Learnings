@@ -15,3 +15,6 @@
 - Sentiment Analysis
 - Question and Answering
 - Summarization
+
+
+A POC (proof of concept) is an advanced demo project that reflects a real-world scenario. Since developing products from emerging technologies can be too risky or troublesome, POCs are often used to “prove” that a new technology, service, or idea is viable for the market.
