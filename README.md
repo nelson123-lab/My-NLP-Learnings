@@ -17,9 +17,15 @@
 - Summarization
 
 ### General Informations
+
+#### POC
 A POC (proof of concept) is an advanced demo project that reflects a real-world scenario. Since developing products from emerging technologies can be too risky or troublesome, POCs are often used to “prove” that a new technology, service, or idea is viable for the market.
 
+#### Vision-language Models
 A vision-language model typically consists of 3 key elements: an image encoder, a text encoder, and a strategy to fuse information from the two encoders. These key elements are tightly coupled together as the loss functions are designed around both the model architecture and the learning strategy.
+
+#### RLHF (Reinforcement Learning from Human Feedback)
+RLHF is a method of using a scalar reward value as a fine-tuning mechanism. Since the reward value can take any form, for example, human ranking or final score in a game, it is usually not differentiable and thus can't be used as a loss function.
 
 ## Latest LLM models
 1. Llama (Large Language Model Meta AI)
