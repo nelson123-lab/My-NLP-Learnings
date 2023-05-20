@@ -35,4 +35,5 @@ Alpaca is a small but capable 7B language model developed by researchers at Stan
 Databricks' Dolly is an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use.
 Dolly was trained on a much smaller language model of only six billion parameters versus 175 billion for GPT-3 (ChatGPT is fine-tuned on GPT-3.5).
 
-
+5. Pythia
+The Pythia Scaling Suite is a collection of models developed to facilitate interpretability research. It contains two sets of eight models of sizes 70M, 160M, 410M, 1B, 1.4B, 2.8B, 6.9B, and 12B.
