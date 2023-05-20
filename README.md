@@ -28,4 +28,11 @@ LLaMA's ability to generate natural language text means that it can be used for 
 2. OPT (Open Pre-trained Transformer)
 OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3. The abstract from the paper is the following: Large language models, which are often trained for hundreds of thousands of compute days, have shown remarkable capabilities for zero- and few-shot learning.
 
-3. 
+3. Alpaca
+Alpaca is a small but capable 7B language model developed by researchers at Stanford University's Centre for Research on Foundation Models. It was fine-tuned from Meta AI's LLaMA 7B model and trained on 52K instruction-following demonstrations generated in the style of self-instruct using Open AI's text-davinci-003.
+
+4. Dolly
+Databricks' Dolly is an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use.
+Dolly was trained on a much smaller language model of only six billion parameters versus 175 billion for GPT-3 (ChatGPT is fine-tuned on GPT-3.5).
+
+
