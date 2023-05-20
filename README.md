@@ -41,3 +41,5 @@ The Pythia Scaling Suite is a collection of models developed to facilitate inter
 6. GPT-NeoX
 GPT-NeoX is the latest Natural Language Processing (NLP) model from EleutherAI. GPT-NeoX 20 is a text generation model, meaning that it can write text for you and actually achieve almost any Natural Language Processing use case with a great accuracy: blog post generation, chatbots, text classification, sentiment analysis, keywords extraction, code generation, entity extraction etc.
 
+7. FLAN (Finetuned LAnguage Net)
+Describes a method for improving zero-shot learning for Natural Language Processing (NLP) models by using natural language instructions (instruction tuning) by making use of pretraining, finetuning and prompting.
