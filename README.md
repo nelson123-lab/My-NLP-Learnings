@@ -18,3 +18,5 @@
 
 
 A POC (proof of concept) is an advanced demo project that reflects a real-world scenario. Since developing products from emerging technologies can be too risky or troublesome, POCs are often used to “prove” that a new technology, service, or idea is viable for the market.
+
+A vision-language model typically consists of 3 key elements: an image encoder, a text encoder, and a strategy to fuse information from the two encoders. These key elements are tightly coupled together as the loss functions are designed around both the model architecture and the learning strategy.
