@@ -1,0 +1,11 @@
+- BART, which stands for Bidirectional and Auto-Regressive Transformers, is a pre-trained language model developed by Facebook AI Research (FAIR) in 2019. It is a transformer-based model that is trained on a combination of 
+auto-encoding and sequence-to-sequence tasks.
+
+- BART is unique in that it is capable of both generating and reconstructing text. This is achieved through the use of a denoising autoencoder, which is trained 
+to reconstruct a corrupted version of a sentence. BART is also capable of performing sequence-to-sequence tasks, such as language translation and summarization.
+
+- One of the key features of BART is its ability to generate high-quality text that is both coherent and grammatically correct. This is achieved through the use 
+of a pre-training process that involves training the model on a variety of tasks, such as masked language modeling and denoising autoencoding.
+
+- BART has been used in a variety of NLP tasks, such as text classification, language translation, and summarization. Its ability to generate high-quality text 
+has been shown to improve the performance of these tasks compared to traditional models.
