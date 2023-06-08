@@ -1,1 +1,2 @@
 - SelFee: An Iterative Self-Revising LLM Empowered By Self-Feedback Generation
+- SelFee is a fine-tuned LLaMA-based instruction-following model that continuously revises its answers until it achieves.   a high-quality response within a single inference. 
