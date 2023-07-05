@@ -12,5 +12,5 @@
 - However, like many AI models, the XGen-7b models are not exempt from biases and can potentially generate toxic responses. Salesforce Research has open-sourced its 
   code to allow the community to further explore and improve upon their work.
 
-
-
+Reference:
+[Salesforce Introduces XGen-7B: A New 7B LLM Trained on up to 8K Sequence Length for 1.5T Tokens [July 2, 2023]](https://www.marktechpost.com/2023/07/02/salesforce-introduces-xgen-7b-a-new-7b-llm-trained-on-up-to-8k-sequence-length-for-1-5t-tokens/)
